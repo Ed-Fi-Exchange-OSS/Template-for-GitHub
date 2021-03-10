@@ -1,6 +1,6 @@
-﻿# <Insert Repository Name Here>
+# {Insert Repository Name Here}
 
-<Insert project information here>
+{Insert project information here}
 
 ## Legal Information
 
